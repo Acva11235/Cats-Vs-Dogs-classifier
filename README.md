@@ -14,6 +14,9 @@ This project showcases a deep learning model trained to classify images of dogs 
 - **Recall**: 95%
 - **F1 Score**: 96%
 
+### 🖼️ Website homepage:
+![Homepage image](Homepage.png)
+
 ### 💻 Usage:
 1. **Clone the Repository**: `git clone https://github.com/your_username/dogs-vs-cats.git`
 2. **Install Dependencies**: `pip install -r requirements.txt`
