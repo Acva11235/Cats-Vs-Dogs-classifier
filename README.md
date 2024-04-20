@@ -18,7 +18,7 @@ This project showcases a deep learning model trained to classify images of dogs 
 ![Homepage image](Homepage.png)
 
 ### 💻 Usage:
-1. **Clone the Repository**: `git clone https://github.com/your_username/dogs-vs-cats.git`
+1. **Clone the Repository**: `git clone https://github.com/Acva11235/dogs-vs-cats.git`
 2. **Install Dependencies**: `pip install -r requirements.txt`
 3. **View the Training process**: `python making_model.py`
 4. **Use the trained model**: `ImageClassifier_95.h5`
